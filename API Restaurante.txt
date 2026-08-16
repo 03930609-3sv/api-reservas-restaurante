@@ -1,0 +1,7 @@
+URL del repositorio público en GitHub.
+
+https://github.com/03930609-3sv/api-reservas-restaurante
+
+URL base de la API desplegada en Railway, Render, Fly.io u otro servicio.
+
+https://api-reservas-restaurante-946x.onrender.com/api-docs/

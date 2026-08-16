@@ -9,7 +9,8 @@ const swaggerOptions = {
             description: 'Documentación interactiva de la API con autenticación JWT, roles y gestión de mesas.',
         },
         servers: [
-            { url: 'http://localhost:3000', description: 'Servidor Local' }
+            { url: 'https://api-reservas-restaurante-946x.onrender.com', description: 'Servidor Producción' },
+    { url: 'http://localhost:3000', description: 'Servidor Local' }
         ],
         components: {
             securitySchemes: {
